@@ -719,7 +719,7 @@ contract MultiMigration is Ownable {
     // Migration
     function migration() external {
         require(msg.sender != deadWallet, "Not allowed to dead wallet");
-        require(whiteListed[msg.sender], 'Only whitelisted users can migrate');
+        require(whiteListed[msg.sender], "Only whitelisted users can migrate");
 
         for (uint256 mid = 0; mid < migrateInfo.length; ++mid) {
             uint256 tokenAmount = migrateInfo[mid].oldToken.balanceOf(msg.sender);
