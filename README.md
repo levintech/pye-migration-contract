@@ -1,2 +1,32 @@
 # pye-migration-contract
- Migration contract
+Migration contracts
+
+### Migration contracts
+[0xF6D862573b271591e3FB98841d100523e96c9C3A](https://bscscan.com/address/0xF6D862573b271591e3FB98841d100523e96c9C3A)
+
+### Old token contracts
+- PYE [0x853FCf1e9CAd2FAE2150621D583c98dc5f8748f3](https://bscscan.com/address/0x853FCf1e9CAd2FAE2150621D583c98dc5f8748f3)
+- Apple [0x390deb8148397F04f59d99a224Da0e9365D5CB19](https://bscscan.com/address/0x390deb8148397F04f59d99a224Da0e9365D5CB19)
+- Cherry [0xa98a6B0d9ddb2C036ea38079C0ADdeC7Bd8959E3](https://bscscan.com/address/0xa98a6B0d9ddb2C036ea38079C0ADdeC7Bd8959E3)
+- MoonForce [0xcD9bc85C6b675DA994F172Debb6Db9BDD6727FE7](https://bscscan.com/address/0xcD9bc85C6b675DA994F172Debb6Db9BDD6727FE7)
+
+### New token contracts
+- PYE [0xd8F05581b61eDA82cbDcE9986054790E345b3C8b](https://bscscan.com/address/0xd8F05581b61eDA82cbDcE9986054790E345b3C8b)
+- Apple [0xAE30E2D34Cb54Dd18c5EEaF8af26462adea8d4C2](https://bscscan.com/address/0xAE30E2D34Cb54Dd18c5EEaF8af26462adea8d4C2)
+- Cherry [0x0B05F99A88403FD4455699ab390427b58D5F2dE7](https://bscscan.com/address/0x0B05F99A88403FD4455699ab390427b58D5F2dE7)
+- MoonForce [0xf4c3870fDFE26c4e073873846eB1C5982c923C81](https://bscscan.com/address/0xf4c3870fDFE26c4e073873846eB1C5982c923C81)
+
+    
+## TestCase
+
+### Old token contracts
+- PYE [0x2a361A18f5961102552BC05038B49d8DAD4fde27](https://bscscan.com/address/0x2a361A18f5961102552BC05038B49d8DAD4fde27)
+- Apple [0x2596095418E7fBDd7417D2D7c8B13C535512018c](https://bscscan.com/address/0x2596095418E7fBDd7417D2D7c8B13C535512018c)
+- Cherry [0xa98a6B0d9ddb2C036ea38079C0ADdeC7Bd8959E3](https://bscscan.com/address/0xa98a6B0d9ddb2C036ea38079C0ADdeC7Bd8959E3)
+- MoonForce [0xcD9bc85C6b675DA994F172Debb6Db9BDD6727FE7](https://bscscan.com/address/0xcD9bc85C6b675DA994F172Debb6Db9BDD6727FE7)
+
+### New token contracts
+- PYE [0xfB09A9427A7cf39eE162B80775e892fCBA22Eb92](https://bscscan.com/address/0xfB09A9427A7cf39eE162B80775e892fCBA22Eb92)
+- Apple [0x4E7b0fB95005179b51f9a24C9ABee8965b3077dD](https://bscscan.com/address/0x4E7b0fB95005179b51f9a24C9ABee8965b3077dD)
+- Cherry [0x0B05F99A88403FD4455699ab390427b58D5F2dE7](https://bscscan.com/address/0x0B05F99A88403FD4455699ab390427b58D5F2dE7)
+- MoonForce [0xf4c3870fDFE26c4e073873846eB1C5982c923C81](https://bscscan.com/address/0xf4c3870fDFE26c4e073873846eB1C5982c923C81)
