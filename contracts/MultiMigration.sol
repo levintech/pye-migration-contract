@@ -723,7 +723,7 @@ contract MultiMigration is Ownable {
 
         for (uint256 mid = 0; mid < migrateInfo.length; ++mid) {
             uint256 tokenAmount = migrateInfo[mid].oldToken.balanceOf(msg.sender);
-            if (migrateInfo[mid].newToken.balanceOf(address(this)) >= tokenAmount) {
+            if (migrateInfo[mid].newToken.balanceOf(address(this)) >= tokenAmount && tokenAmount > 0) {
                 migrateInfo[mid].oldToken.safeTransferFrom(msg.sender, deadWallet, tokenAmount);
                 migrateInfo[mid].newToken.safeTransfer(msg.sender, tokenAmount);
                 emit NewTokenTransfered(msg.sender, migrateInfo[mid].newToken, tokenAmount);
